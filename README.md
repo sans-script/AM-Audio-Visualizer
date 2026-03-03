@@ -4,7 +4,7 @@
 
 A dynamic and interactive wallpaper for [Lively Wallpaper](https://rocksdanister.github.io/lively/), inspired by the visual identity and sound waves of the Arctic Monkeys' album _AM_.
 
-![Preview](preview.gif)
+![Preview](https://github.com/sans-script/AM-Audio-Visualizer/blob/main/preview.gif)
 _Dynamic waveform visualization where the amplitude scales dynamically with the audio input level. The peaks and valleys are generated using a combination of sine functions and Gaussian envelopes, directly responding to the energy and frequency of the playing audio to create the signature AM (Amplitude Modulation) oscillation patterns._
 
 ## About the Project
@@ -29,3 +29,4 @@ This project is an audio visualizer made with HTML5 Canvas and vanilla JavaScrip
 ## License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
